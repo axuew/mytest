@@ -6,9 +6,9 @@
 
 
 delete
-=======
 test
 world
+
 
 
 
@@ -21,3 +21,10 @@ def adfsddf():
        fsdf
  dfe dfsfsdfs();
  dfsdfsd
+
+dfefd():
+    dfsdfsdfsdf
+    dfsdfdsf
+dfefef();
+  pass
+
