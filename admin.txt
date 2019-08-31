@@ -6,6 +6,12 @@
 
 
 delete
-=======
 test
 world
+
+
+dfefd():
+    dfsdfsdfsdf
+    dfsdfdsf
+dfefef();
+  pass
